@@ -719,7 +719,7 @@
             "Later": "Más tarde",
             "Ok": "OK",
             "Save": "Guardar",
-            "SaveConfig": "SAVEE CONFIG",
+            "SaveConfig": "SAVE CONFIG",
             "SaveInfoDescription": "El nuervo Z-Offset fue calculado y registrado. Haga click en \"SAVE CONFIG\" para guardar el nuevo Z-Offset en su archivo printer.cfg y reiniciar Klipper.",
             "SaveInfoDescriptionPrint": "El nuevo Z-Offset fue calculado y registrado. Después de imprimir, haga click en \"SAVE CONFIG\" en la barra superior para guardarlo en printer.cfg y reiniciar Klipper.",
             "SaveInfoHeadline": "Información",
